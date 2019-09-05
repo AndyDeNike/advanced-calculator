@@ -27,4 +27,4 @@ As with many aspects of programming, there are multiple ways you can approach an
 **Note:**  To calculate variance you will need to reflect this pseudo code: 
 Apply _(arg - mean) ** 2_ to each argument in _*args_ and add up their total.  Once you have that total, divide it by the length of the args!
 
-**Note2:**  std will require the use of a square root function!
+**Note2:**  std (standard deviation) will require the use of a square root function!
