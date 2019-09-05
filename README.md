@@ -20,7 +20,7 @@ multiply_all_args_by_2(5, 4, 3, 2, 1)
 1 is one of the *args!
 ```
 
-With the power of _*args_, read the tests.py file and give functionality to the mathematical functions found in adv_calculator.py in order to get all the tests passing!
+With the power of _*args_, read the **tests.py file** and give functionality to the mathematical functions found in **adv_calculator.py** in order to get all the tests passing!
 
 As with many aspects of programming, there are multiple ways you can approach and implement these functions. 
 
